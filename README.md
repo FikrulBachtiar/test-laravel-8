@@ -1,2 +1,2 @@
 # test-laravel-8
-Technical Test-  BOOKINGTOGO.COM - PT. Indo Teknologi Cemerlang
+Technical Test - BOOKINGTOGO.COM - PT. Indo Teknologi Cemerlang
